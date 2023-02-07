@@ -1,0 +1,23 @@
+{
+  "name": "02-api-rest",
+  "version": "1.0.0",
+  "description": "Este projeto consiste na criação de uma API rest do zero até o deploy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "lint": "eslint src --ext .ts --fix"
+  },
+  "keywords": [],
+  "author": "João Pedro Nogueira",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.12.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "@types/node": "^18.13.0",
+    "eslint": "^8.33.0",
+    "tsx": "^3.12.3"
+  }
+}
