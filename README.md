@@ -9,5 +9,10 @@
 
 - [x] A transação deve poder ser do tipo crédito (entrada de valor);
 - [x] A transação deve poder ser do tipo débito (saída de valor);
-- [ ] A atividade de um usuário não pode interferir na atividade de outro usuário;
-- [ ] O usuário deve poder ver apenas as transações que ele mesmo criou;
+- [x] A atividade de um usuário não pode interferir na atividade de outro usuário;
+- [x] O usuário deve poder ver apenas as transações que ele mesmo criou;
+
+## Teste automatizado
+
+- [x] Teste unitário (rotas)
+- [ ] Teste End-to-End (Teste de ponta a ponta)
