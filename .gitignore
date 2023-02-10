@@ -1,5 +1,7 @@
 node_modules/
 notes.md
 db/app.db
-tmp/app.db
+db/test.db
+tmp
 .env
+.env.test

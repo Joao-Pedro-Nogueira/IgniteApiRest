@@ -12,7 +12,6 @@
 - [x] A atividade de um usuário não pode interferir na atividade de outro usuário;
 - [x] O usuário deve poder ver apenas as transações que ele mesmo criou;
 
-## Teste automatizado
+## Testes automatizados
 
-- [x] Teste unitário (rotas)
-- [ ] Teste End-to-End (Teste de ponta a ponta)
+- [x] Testes para cada uma das rotas da aplicação.
