@@ -1,7 +1,16 @@
+# Dependencies
 node_modules/
+
+# Personal notes
 notes.md
-db/app.db
-db/test.db
+
+# Databases
+db/*.db
 tmp
+
+# Environment
 .env
 .env.test
+
+# Build
+build
